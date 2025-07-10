@@ -37,7 +37,7 @@ Este repositorio contiene los apuntes y soluciones en Python desarrolladas a lo 
 
 ---
 
-### Tema 3.1 – Voraces sobre Grafos
+### Tema 4 – Voraces sobre Grafos
 - **Árboles de expansión mínima**:
   - Kruskal
   - Prim
@@ -49,7 +49,7 @@ Este repositorio contiene los apuntes y soluciones en Python desarrolladas a lo 
 
 ---
 
-### Tema 4 – Divide y Vencerás
+### Tema 5 – Divide y Vencerás
 - Técnica basada en dividir el problema, resolver subcasos y combinar soluciones.
 - Ejemplos implementados:
   - **Búsqueda binaria** – O(log n)
@@ -60,7 +60,7 @@ Este repositorio contiene los apuntes y soluciones en Python desarrolladas a lo 
 
 ---
 
-### Tema 5 – Backtracking (Vuelta Atrás)
+### Tema 6 – Backtracking (Vuelta Atrás)
 Técnica basada en recorrer de forma **profunda** un árbol implícito de soluciones, descartando ramas no prometedoras (poda). Ideal para:
 
 #### Problemas tratados:
